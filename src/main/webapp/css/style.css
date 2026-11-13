@@ -1,0 +1,11 @@
+body{font-family:Arial,sans-serif;margin:0;background:#f4f6f8;color:#222}
+.container{max-width:1100px;margin:40px auto;padding:20px}
+.card{max-width:520px;background:#fff;padding:30px;border-radius:12px;box-shadow:0 4px 15px #ddd}
+.hero{text-align:center;margin-top:100px}
+input,select,textarea{width:100%;box-sizing:border-box;padding:11px;margin:7px 0;border:1px solid #ccc;border-radius:6px}
+button,.btn{display:inline-block;padding:11px 18px;margin:8px 4px 8px 0;border:0;border-radius:6px;background:#1769aa;color:white;text-decoration:none;cursor:pointer}
+.secondary{background:#2e7d32}.dark{background:#444}.message,.error,.success{padding:12px;margin:12px 0;border-radius:6px;background:#eef5ff}.error{background:#ffecec;color:#a00}.success{background:#eaffea;color:#176b17}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:18px;margin-top:30px}.tile{background:white;padding:35px;text-align:center;border-radius:10px;text-decoration:none;color:#1769aa;box-shadow:0 3px 10px #ddd}
+table{width:100%;border-collapse:collapse;background:white;margin-top:20px}th,td{padding:10px;border:1px solid #ddd;text-align:left}th{background:#eee}
+.stats{display:flex;gap:20px;flex-wrap:wrap}.stats div{background:white;padding:25px;min-width:180px;border-radius:10px;text-align:center}
+.inline{display:flex;gap:8px;flex-wrap:wrap}.inline input{width:auto;flex:1;min-width:120px}
